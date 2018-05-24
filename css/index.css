@@ -1,0 +1,74 @@
+body {
+  background-color: white !important;
+  margin: 0px !important;
+  padding: 0px !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0px !important;
+  padding: 0px;
+  background-color: white !important;
+}   
+
+.navbar-head a {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: white !important;
+  background-color: rgb(37, 107, 172) !important;    
+  padding-left: 0px;
+  white-space: nowrap; 
+  width: fit-content; 
+  overflow: visible;
+  text-overflow: clip;     
+  text-align: center;
+} 
+
+.col-md-3 {
+  padding: 20px 0px 20px 0px;
+  margin-bottom: 0px;
+  background-color: rgb(250, 248, 248);
+  border: 1px solid rgb(204, 226, 245);
+  align-self: center;
+}
+
+.box {
+  height: 450px;
+  width: 98%;
+  background-color: rgb(250, 248, 248);
+  margin: 10px 10px 20px 10px !important;
+  text-align: center;
+}
+
+.first-nav {
+  float: left !important;
+  width: 250px;
+  height: 30px;
+}
+
+.second-nav {
+  color: grey !important;
+  float: right !important;
+  height: 30px;
+}
+
+.dropdown-menu a {
+  color: grey !important;
+}
+
+.headline {
+  text-align: center;
+}
+
+.count-label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+.count {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
